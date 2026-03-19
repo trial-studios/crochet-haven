@@ -13,6 +13,12 @@ This project is **not affiliated with, endorsed by, or connected to any real-wor
 
 All design, UI, and code in this repository are original and created solely for learning and portfolio use.
 
+## 📸 Image Credits
+
+Some images used in this project are sourced from Unsplash (https://unsplash.com), a platform providing free-to-use high-quality photos.
+
+All images belong to their respective creators and are used here for demonstration and portfolio purposes only.
+
 ## 📄 Usage Notice
 
 You are welcome to view this project for inspiration.
